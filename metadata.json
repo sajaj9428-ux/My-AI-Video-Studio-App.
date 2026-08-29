@@ -1,0 +1,7 @@
+{
+  "name": "My AI Video Studio",
+  "description": "Personal AI video creation app for creating AI stories, scenes, image & video prompts, voice-over scripts, and YouTube Shorts packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
